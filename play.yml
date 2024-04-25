@@ -17,7 +17,4 @@
         update_cache: yes
         name: nginx
         state: latest
-  vars:
-    ansible_ssh_user: jenkins
-    ansible_ssh_pass: "jenkins"
         
