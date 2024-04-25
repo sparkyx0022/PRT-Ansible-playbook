@@ -17,3 +17,4 @@
         update_cache: yes
         name: nginx
         state: latest
+        
